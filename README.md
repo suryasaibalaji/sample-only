@@ -9,3 +9,8 @@ This is my first GitHub project.
 
 ## Author
 Surya Sai Balaji
+
+
+## Version 2
+
+Learning Git and GitHub 🚀
